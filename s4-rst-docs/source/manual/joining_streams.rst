@@ -1,2 +1,0 @@
-Joining Streams
-===============
